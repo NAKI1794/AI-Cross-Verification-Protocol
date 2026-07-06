@@ -188,7 +188,7 @@ These formulas provide:
 They allow enterprises, researchers, and governments to assess AI reliability using a unified, interpretable metric.
 
 
-## API Specification (v0.1)
+# API Specification (v0.1)
 Overview
 The AI Cross Verification Protocol exposes a single HTTP endpoint that allows external systems to submit a question and receive a full verification log, including:
 	• Generated answer
@@ -270,7 +270,7 @@ This API is intentionally:
 	• Model‑agnostic — works with any LLM backend
 
 
-## Usage Examples
+# Usage Examples
 This section shows how to call the AI Cross Verification Protocol API from external applications. All examples use the /verify endpoint defined in the API Specification.
 ## Python Example (requests)
 python
@@ -378,9 +378,9 @@ The first stable version of the AI Cross Verification Protocol.
 	• Compliance tests
 	• Documentation and examples
 
-#MIT License
+# MIT License
 
-#Copyright (c) 2026 Naoto
+# Copyright (c) 2026 Naoto
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to deal
