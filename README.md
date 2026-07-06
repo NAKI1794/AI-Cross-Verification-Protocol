@@ -401,7 +401,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-#Naoto Creator of the AI Cross Verification Protocol Kanazawa, Japan
-#GitHub: https://github.com/NAKI1794
-Email: Naoto1794@gmail.com
+## Naoto Creator of the AI Cross Verification Protocol Kanazawa, Japan
+## GitHub: https://github.com/NAKI1794
+## Email: Naoto1794@gmail.com
 
