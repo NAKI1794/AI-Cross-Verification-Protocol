@@ -403,5 +403,5 @@ THE SOFTWARE.
 
 ## Naoto Creator of the AI Cross Verification Protocol Kanazawa, Japan
 ## GitHub: https://github.com/NAKI1794
-## Email: Naoto1794@gmail.com
+## Email: naoto1794@gmail.com
 
